@@ -1,4 +1,4 @@
-# INITO WordPress Starter Theme
+# Sayoc Champoluc WP THEME
 
 A modern, performance-optimized WordPress starter theme with comprehensive security features, accessibility compliance, and enterprise-grade development practices.
 
