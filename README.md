@@ -1,6 +1,6 @@
-# Sayoc Champoluc WP THEME
+# LoSayoc Champoluc WP THEME
 
-A modern, performance-optimized WordPress starter theme with comprehensive security features, accessibility compliance, and enterprise-grade development practices.
+A modern, performance-optimized LoSayoc Champoluc WordPress starter theme with comprehensive security features, accessibility compliance, and enterprise-grade development practices.
 
 ## 🚀 Key Features
 

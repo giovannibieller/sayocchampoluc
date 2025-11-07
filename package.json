@@ -1,7 +1,7 @@
 {
-	"name": "sayoc-champoluc",
+	"name": "losayoc-champoluc",
 	"version": "1.0.0",
-	"description": "Sayoc Champoluc",
+	"description": "LoSayoc Champoluc",
 	"main": "index.php",
 	"repository": "https://github.com/giovannibieller/inito-wp",
 	"type": "module",
